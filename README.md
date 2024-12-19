@@ -45,12 +45,12 @@ Highlight gaps in the inventory and optimize stock levels.
 
 3. What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?
 
-    [<img src="./IMAGES/TOTAL_NUMBER_OF_MOVES.png" alt="TOTAL_NUMBER_OF_MOVES.png" width="400"/>](https://www.mysql.com/) &nbsp;
+    [<img src="./IMAGES/CHEAPEST RENTAL.png" alt="CHEAPEST RENTAL.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 
 5. How can we categorize all movies based on their rental rates and determine the count of movies in each category?
 
-    [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+    [<img src="./IMAGES/TOTAL_NUMBER_OF_MOVES.png" alt="TOTAL_NUMBER_OF_MOVES.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 
 7. Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?
