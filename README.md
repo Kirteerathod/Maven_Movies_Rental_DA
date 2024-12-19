@@ -60,8 +60,8 @@ Highlight gaps in the inventory and optimize stock levels.
 
 8. What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?
 
-  [<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width=400"/>](https://www.mysql.com/) &nbsp;
-
+  [<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width="400"/>](https://www.mysql.com/) &nbsp;
+  
 6. What are the inventory IDs and corresponding film titles for movies that are currently rented out, and how can this data help track rental activity?
 
    [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
