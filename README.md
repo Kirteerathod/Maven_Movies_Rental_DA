@@ -55,12 +55,12 @@ Highlight gaps in the inventory and optimize stock levels.
 
 7. Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/RATING_WISE_COUNT.png" alt="RATING_WISE_COUNT.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 
 8. What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?
 
-  [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+  [<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width=400"/>](https://www.mysql.com/) &nbsp;
 
 6. What are the inventory IDs and corresponding film titles for movies that are currently rented out, and how can this data help track rental activity?
 
