@@ -78,13 +78,13 @@ Highlight gaps in the inventory and optimize stock levels.
     
    [<img src="./IMAGES/STORE_REVENUE.png" alt="STORE_REVENUE.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
-11. What is the number of movies rented for each rental duration category, and how can this data inform inventory optimization?
+11. -- How Many Rental We Have For Each Month
 
-    [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+    [<img src="./IMAGES/RENTAL_PER_MONTH.png" alt="RENTAL_PER_MONTH.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
-12. Which movie titles are rented most frequently, and how can this information help identify popular trends?
+12. -- Reward users who have rented at least 30 times (WITH DETAILS OF CUSTOMER)
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/NUMBER_OF_CUSTOMER.png" alt="NUMBER_OF_CUSTOMER.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 12. Who are the top customers based on the number of movies rented, and how can this data be used for personalized marketing strategies?
 
