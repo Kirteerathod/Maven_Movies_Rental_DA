@@ -106,9 +106,16 @@ Highlight gaps in the inventory and optimize stock levels.
 
      <img src="./IMAGES/SLICED BY RENTAL_ID.png" alt="SLICED BY RENTAL_ID.png" width="400"/> &nbsp; 
 
-18. 
-19. 
-20.     
+18. I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max 
+    rental rate,grouped by replacement cost?
+    
+    <img src="./IMAGES/AVG,MIN,MAX OF RENTAL_ID.png" alt="AVG,MIN,MAX OF RENTAL_ID.png" width="400"/> &nbsp; 
 
-21. 
+20. -- CATEGORIZING MOVIES TO RECOMMEND VARIOUS AGE GROUPS AND DEMOGRAPHIC
+   
+    <img src="./IMAGES/FIT_FOR_RECOMMENDATION.png" alt="FIT_FOR_RECOMMENDATION.png" width="400"/> &nbsp; 
+
+21.     
+
+22. 
      
