@@ -70,9 +70,9 @@ Highlight gaps in the inventory and optimize stock levels.
 
    [<img src="./IMAGES/CATEGORY_NAME.png" alt="CATEGORY_NAME.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
-8. How much revenue has been generated for each movie rating category, and how can this data assist in setting pricing strategies?
+8. -- Revenue Per film (top 10 grosser)
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/GROSS_REVENUE.png" alt="GROSS_REVENUE.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
 9. How many customers are actively renting movies, and what trends can be observed regarding their rental behavior?
 
