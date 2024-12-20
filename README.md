@@ -66,9 +66,9 @@ Highlight gaps in the inventory and optimize stock levels.
 
    [<img src="./IMAGES/POPULARITY.png" alt="POPULARITY.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
-7. How many rentals have been made for each movie rating category, and what insights can be drawn regarding the popularity of specific ratings?
+7. -- List of films by filmname,category,language.
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/CATEGORY_NAME.png" alt="CATEGORY_NAME.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 8. How much revenue has been generated for each movie rating category, and how can this data assist in setting pricing strategies?
 
