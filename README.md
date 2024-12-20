@@ -72,7 +72,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 8. -- Revenue Per film (top 10 grosser)
 
-   [<img src="./IMAGES/GROSS REVENUE.png" alt="GROSS REVENUE.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/GROSS REVENUE.png" alt="GROSS REVENUE.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 9. How many customers are actively renting movies, and what trends can be observed regarding their rental behavior?
 
