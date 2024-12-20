@@ -74,15 +74,15 @@ Highlight gaps in the inventory and optimize stock levels.
 
    [<img src="./IMAGES/GROSS REVENUE.png" alt="GROSS REVENUE.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
-9. How many customers are actively renting movies, and what trends can be observed regarding their rental behavior?
+9. -- Which store has historically brought tye most revenue
+    
+   [<img src="./IMAGES/STORE_REVENUE.png" alt="STORE_REVENUE.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
-
-10. What is the number of movies rented for each rental duration category, and how can this data inform inventory optimization?
+11. What is the number of movies rented for each rental duration category, and how can this data inform inventory optimization?
 
     [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
-11. Which movie titles are rented most frequently, and how can this information help identify popular trends?
+12. Which movie titles are rented most frequently, and how can this information help identify popular trends?
 
    [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
