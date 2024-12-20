@@ -120,5 +120,8 @@ Highlight gaps in the inventory and optimize stock levels.
       
      <img src="./IMAGES/STORE_ACTIVE.png" alt="STORE_ACTIVE.png" width="400"/> &nbsp;
 
-22. 
+22.   “Can you pull for me a list of each film we have in inventory?I would like to see the film’s title, description, and the store_id value associated with each 
+       item, and its inventory_id. Thanks!”
+
+      <img src="./IMAGES/FILMS_IN_INVENTORY.png" alt="FILMS_IN_INVENTORY.png" width="400"/> &nbsp;
      
