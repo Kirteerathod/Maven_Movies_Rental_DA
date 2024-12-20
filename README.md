@@ -64,7 +64,7 @@ Highlight gaps in the inventory and optimize stock levels.
   
 6. What are the inventory IDs and corresponding film titles for movies that are currently rented out, and how can this data help track rental activity?
 
-   [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+   [<img src="./IMAGES/POPULARITY.png" alt="POPULARITY.png" width="400"/>](https://www.mysql.com/) &nbsp;
 
 7. How many rentals have been made for each movie rating category, and what insights can be drawn regarding the popularity of specific ratings?
 
