@@ -130,3 +130,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
        <img src="./IMAGES/NUMBER_OF_FILM BY ACTOR.png" alt="NUMBER_OF_FILM BY ACTOR.png" width="400"/> &nbsp;
      
+24.   “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could 
+       you please pull that for me?”
+
+      <img src="./IMAGES/FAV_ACTOR_APPEAR.png" alt="FAV_ACTOR_APPEAR.png" width="400"/> &nbsp;
