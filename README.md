@@ -144,3 +144,13 @@ Highlight gaps in the inventory and optimize stock levels.
        whether they are a staff member or advisor? Thanks!”
 
       <img src="./IMAGES/UNION.png" alt="UNION.png" width="400"/> &nbsp;   
+
+27.   Find Most Spending customer so that we can send him/her rewards or debate points .
+
+      <img src="./IMAGES/MOST_SPENDING_CUSTOMER.png" alt="MOST_SPENDING_CUSTOMER.png" width="400"/> &nbsp;   
+     
+28.   Reward users who have rented at least 30 times (WITH DETAILS OF CUSTOMER).
+
+      <img src="./IMAGES/NUMBER_OF_CUSTOMER.png" alt="NUMBER_OF_CUSTOMER.png" width="400"/> &nbsp;   
+
+   
