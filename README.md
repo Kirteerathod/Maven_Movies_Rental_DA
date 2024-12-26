@@ -138,7 +138,7 @@ Highlight gaps in the inventory and optimize stock levels.
 25.  “The Manager from Store 2 is working on expanding our film collection there. Could you pull a list of distinct titles and their descriptions, currently 
       available in inventory at store 2?”
       
-      <img src="./IMAGES/COLLECTON_OF_STORE2.png" alt="COLLECTON_OF_STORE2.png" width="400"/> &nbsp;
+      <img src="./IMAGES/COLLECTION_OF_STORE2.png" alt="COLLECTION_OF_STORE2.png" width="400"/> &nbsp;
 
 26.   “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting 
        whether they are a staff member or advisor? Thanks!”
