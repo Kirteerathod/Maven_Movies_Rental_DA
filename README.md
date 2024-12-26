@@ -124,4 +124,9 @@ Highlight gaps in the inventory and optimize stock levels.
        item, and its inventory_id. Thanks!”
 
       <img src="./IMAGES/FILMS_IN_INVENTORY.png" alt="FILMS_IN_INVENTORY.png" width="400"/> &nbsp;
+
+23.   “One of our investors is interested in the films we carry and how many actors are listed for each
+      film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
+
+       <img src="./IMAGES/NUMBER_OF_FILM BY ACTOR.png" alt="NUMBER_OF_FILM BY ACTOR.png" width="400"/> &nbsp;
      
